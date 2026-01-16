@@ -1,0 +1,40 @@
+# STM32CubeIDE / Eclipse
+.settings/
+.cproject
+.project
+Debug/
+Release/
+*.launch
+
+# Build outputs
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.srec
+
+# Compiled files
+build/
+out/
+
+# STM32CubeMX
+*.ioc.bak
+
+# IDE specific
+.idea/
+*.swp
+*.swo
+*~
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.orig
+
