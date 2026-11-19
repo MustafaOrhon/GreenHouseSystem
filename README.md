@@ -1,4 +1,4 @@
-# SmartGreen 🌱
+# SmartGreen: greenhouse monitoring and control on STM32
 
 A real-time smart greenhouse monitoring and control system built on STM32F4 with FreeRTOS. The system monitors environmental conditions through multiple sensors and provides automated actuator control with Bluetooth connectivity for remote monitoring.
 
